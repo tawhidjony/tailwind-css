@@ -1,0 +1,7 @@
+.my-dev-1 {
+  @apply mx-auto my-auto p-12;
+}
+
+.my-dev {
+  @apply bg-yellow-500 text-center text-white text-7xl font-extrabold p-10 rounded-md shadow-2xl;
+}
